@@ -1,2 +1,2 @@
 # git-test
-For test purpose
+This is for test purpose.

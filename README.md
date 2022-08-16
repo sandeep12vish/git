@@ -10,3 +10,27 @@
   - Initialized empty Git repository in .git/
   - $ git add .
   - $ git commit
+
+## Making changes
+
+  $ git add file1 file2 file3
+
+  $ git diff --cached
+
+  $ git status
+
+  $ git commit
+
+  $ git commit -a
+
+## Viewing project history
+  
+  $ git log
+
+  $ git log -p
+  
+  $ git log --stat --summary
+  
+## Managing branches
+
+  

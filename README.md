@@ -33,4 +33,27 @@
   
 ## Managing branches
 
+  $ git branch experimental
+  
+  $ git branch
+  
+  $ git switch experimental
+  
+  $ git commit -a
+  
+  $ git switch master
+  
+  $ git commit -a
+  
+  $ git merge experimental
+  
+  $ git diff
+  
+  $ git commit -a
+  
+  $ gitk
+  
+  $ git branch -d experimental
+  
+  $ git branch -D crazy-idea
   
